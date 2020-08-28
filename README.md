@@ -1,16 +1,12 @@
-### Hi there 👋
-
-<!--
-**Master0r0/Master0r0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Hi There, I'm Sarah
+## About Me
+I am a Trans software developer from the United Kingdom.\
+My Pronouns are She/Her and due to current living conditions I cannot transition.\
+I'm currently a student at Open University working on the course [BSc (Honours) Computing and IT](http://www.open.ac.uk/courses/computing-it/degrees/bsc-computing-it-q62).
+## What I do
+Currently I am unemployed so I do alot of small projects to test myself, expand my knowledge and keep my brain active\
+I enjoy writing code in Rust, Java, C#, Python and Javascript, I also know some C/C++, PHP, HTML and CSS.
+## Places of Contact
+[Email](mailto:m.sarahgreywolf@outlook.com)\
+[Twitter](https://twitter.com/master0)\
+[Mastodon](https://mastodon.social/@Master0r0)
