@@ -10,3 +10,5 @@ I enjoy writing code in Rust, Java, C#, Python and Javascript, I also know some 
 [Email](mailto:m.sarahgreywolf@outlook.com)\
 [Twitter](https://twitter.com/master0)\
 [Mastodon](https://mastodon.social/@Master0r0)
+## Support Me
+[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/N4N31GIAK)
