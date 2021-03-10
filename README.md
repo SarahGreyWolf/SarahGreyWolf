@@ -27,3 +27,7 @@ I enjoy writing code in Rust, Java, C#, Python and Javascript, I also know some 
         <img src="https://img.shields.io/badge/-Sponsor-grey?style=for-the-badge&logo=Github" alt="Sponsor">
     </a>
 </div>
+<hr>
+<p align=center>
+    <a href="https://github-readme-stats.vercel.app/api?username=master0r0&show_icons=true&theme=radical"><img src="https://github-readme-stats.vercel.app/api?username=master0r0&show_icons=true&theme=radical"></a>
+</p>
