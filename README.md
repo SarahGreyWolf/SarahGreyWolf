@@ -23,7 +23,7 @@ I enjoy writing code in Rust, Java, C#, Python and Javascript, I also know some 
     <a href="mastodon.social/@Master0r0">
         <img src="https://img.shields.io/badge/-Mastodon-grey?style=for-the-badge&logo=Mastodon" alt="Mastodon">
     </a>
-    <a href="mastodon.social/@Master0r0">
-        <img src="https://img.shields.io/badge/-Sponsor-grey?style=for-the-badge&logo=Github Sponsors" alt="Sponsor">
+    <a href="https://github.com/sponsors/Master0r0">
+        <img src="https://img.shields.io/badge/-Sponsor-grey?style=for-the-badge&logo=Github" alt="Sponsor">
     </a>
 </div>
