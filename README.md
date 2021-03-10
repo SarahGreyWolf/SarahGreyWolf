@@ -7,7 +7,7 @@
 <h2>About Me</h2>
 <p>I am a Trans software developer from the United Kingdom.\
 My Pronouns are She/Her and due to current living conditions I cannot transition.</p>
-<p>I'm currently a student at Open University working on the course [BSc (Honours) Computing and IT](http://www.open.ac.uk/courses/computing-it/degrees/bsc-computing-it-q62).</p>
+<p>I'm currently a student at Open University working on the course <a href="http://www.open.ac.uk/courses/computing-it/degrees/bsc-computing-it-q62">BSc (Honours) Computing and IT</a>.</p>
 <h2>What I do</h2>
 <p>Currently I am unemployed so I do alot of small projects to test myself, expand my knowledge and keep my brain active\
 I enjoy writing code in Rust, Java, C#, Python and Javascript, I also know some C/C++, PHP, HTML and CSS.</p>
