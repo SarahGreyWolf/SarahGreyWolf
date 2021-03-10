@@ -1,6 +1,6 @@
 <div>
     <h1 align=center>
-        <img src="https://raw.githubusercontent.com/Master0r0/Master0r0/main/logo.svg" style="width: 10rem;">
+        <img src="https://raw.githubusercontent.com/Master0r0/Master0r0/main/logo.svg" style="width: 5em;">
         Hi There, I'm Sarah
     </h1>
 </div>
