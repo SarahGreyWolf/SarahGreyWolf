@@ -13,7 +13,7 @@ My Pronouns are She/Her and due to current living conditions I cannot transition
 I enjoy writing code in Rust, Java, C#, Python and Javascript, I also know some C/C++, PHP, HTML and CSS.</p>
 <hr>
 <h2 align=center>Places of Contact</h2>
-<div align=center >
+<div align=center style="text-decoration: none;">
     <a href="mailto:m.sarahgreywolf@outlook.com" style="text-decoration: none;">
         <img src="https://img.shields.io/badge/-Email-grey?style=for-the-badge&logo=Microsoft-Outlook" alt="Email">
     </a>
