@@ -9,8 +9,8 @@
 
 My Pronouns are She/Her and due to current living conditions I cannot transition.I'm currently a student at Open University working on the course <a href="http://www.open.ac.uk/courses/computing-it/degrees/bsc-computing-it-q62">BSc (Honours) Computing and IT</a>.</p>
 <h2>What I do</h2>
-<p>Currently I am unemployed so I do alot of small projects to test myself, expand my knowledge and keep my brain active\
-I enjoy writing code in Rust, Java, C#, Python and Javascript, I also know some C/C++, PHP, HTML and CSS.</p>
+<p>Currently I am unemployed so I do alot of small projects to test myself, expand my knowledge and keep my brain active</p>
+<p>I enjoy writing code in Rust, Java, C#, Python and Javascript, I also know some C/C++, PHP, HTML and CSS.</p>
 <hr>
 <h2 align=center>Places of Contact</h2>
 <div align=center style="text-decoration: none;">
