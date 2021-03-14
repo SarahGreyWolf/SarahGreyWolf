@@ -18,10 +18,10 @@ My Pronouns are She/Her and due to current living conditions I cannot transition
         <a href="mailto:m.sarahgreywolf@outlook.com" style="text-decoration: none;">
             <img src="https://img.shields.io/badge/-Email-grey?style=for-the-badge&logo=Microsoft-Outlook" alt="Email">
         </a>
-        <a href="twitter.com/master0" style="text-decoration: none;">
+        <a href="https://twitter.com/master0" style="text-decoration: none;">
             <img src="https://img.shields.io/badge/-Twitter-grey?style=for-the-badge&logo=Twitter" alt="Twitter">
         </a>
-        <a href="mastodon.social/@Master0r0" style="text-decoration: none;">
+        <a href="https://mastodon.social/@Master0r0" style="text-decoration: none;">
             <img src="https://img.shields.io/badge/-Mastodon-grey?style=for-the-badge&logo=Mastodon" alt="Mastodon">
         </a>
         <a href="https://github.com/sponsors/Master0r0" style="text-decoration: none;">
