@@ -22,7 +22,7 @@ I'm currently a student at Open University studying <a href="http://www.open.ac.
         <a href="https://twitter.com/SarahGreyWolf" style="text-decoration: none;">
             <img src="https://img.shields.io/badge/-Twitter-grey?style=for-the-badge&logo=Twitter" alt="Twitter">
         </a>
-        <a href="https://mastodon.social/@SarahGreyWolf" style="text-decoration: none;">
+        <a rel="me" href="https://mastodon.social/@SarahGreyWolf" style="text-decoration: none;">
             <img src="https://img.shields.io/badge/-Mastodon-grey?style=for-the-badge&logo=Mastodon" alt="Mastodon">
         </a>
         <a href="https://github.com/sponsors/SarahGreyWolf" style="text-decoration: none;">
