@@ -32,5 +32,5 @@ I'm currently a student at Open University studying <a href="http://www.open.ac.
 </div>
 <hr>
 <p align=center>
-    <a href="https://github-readme-stats.vercel.app/api?username=SarahGreyWolf&show_icons=true&theme=radical" style="text-decoration: none;"><img src="https://github-readme-stats.vercel.app/api?username=SarahGreyWolf&show_icons=true&theme=radical"></a>
+    <a href="https://github.com/sarahgreywolf" style="text-decoration: none;"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarahgreywolf&layout=compact&show_icons=true&theme=radical"></a>
 </p>
