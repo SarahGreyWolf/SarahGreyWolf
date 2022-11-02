@@ -7,10 +7,11 @@
 <h2>About Me</h2>
 <p>I am a Trans software developer from the United Kingdom.
 
-My Pronouns are She/Her and due to current living conditions I cannot transition.I'm currently a student at Open University working on the course <a href="http://www.open.ac.uk/courses/computing-it/degrees/bsc-computing-it-q62">BSc (Honours) Computing and IT</a>.</p>
+My Pronouns are She/Her and due to current living conditions I cannot transition.<br>
+I'm currently a student at Open University studying <a href="http://www.open.ac.uk/courses/computing-it/degrees/bsc-computing-it-q62">BSc (Honours) Computing and IT</a>.</p>
 <h2>What I do</h2>
 <p>Currently I am unemployed so I do alot of small projects to test myself, expand my knowledge and keep my brain active</p>
-<p>I enjoy writing code in Rust, Java, C#, Python and Javascript, I also know some C/C++, PHP, HTML and CSS.</p>
+<p>I enjoy writing code in Rust, Java, C#, Python, Javascript and Typescript, I also know how to use PHP, HTML and CSS, with a basic knowledge of C/++</p>
 <hr>
 <h2 align=center>Places of Contact</h2>
 <div align=center style="text-decoration: none;">
@@ -21,7 +22,7 @@ My Pronouns are She/Her and due to current living conditions I cannot transition
         <a href="https://twitter.com/SarahGreyWolf" style="text-decoration: none;">
             <img src="https://img.shields.io/badge/-Twitter-grey?style=for-the-badge&logo=Twitter" alt="Twitter">
         </a>
-        <a rel="me" href="https://tech.lgbt/@SarahGreyWolf" style="text-decoration: none;">
+        <a rel="me" href="https://mastodon.social/@SarahGreyWolf" style="text-decoration: none;">
             <img src="https://img.shields.io/badge/-Mastodon-grey?style=for-the-badge&logo=Mastodon" alt="Mastodon">
         </a>
         <a href="https://github.com/sponsors/SarahGreyWolf" style="text-decoration: none;">
@@ -31,5 +32,5 @@ My Pronouns are She/Her and due to current living conditions I cannot transition
 </div>
 <hr>
 <p align=center>
-    <a href="https://github-readme-stats.vercel.app/api?username=SarahGreyWolf&show_icons=true&theme=radical" style="text-decoration: none;"><img src="https://github-readme-stats.vercel.app/api?username=SarahGreyWolf&show_icons=true&theme=radical"></a>
+    <a href="https://github.com/sarahgreywolf" style="text-decoration: none;"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarahgreywolf&layout=compact&show_icons=true&theme=radical"></a>
 </p>
