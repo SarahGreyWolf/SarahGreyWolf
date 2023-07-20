@@ -19,9 +19,6 @@ I'm currently a student at Open University studying <a href="http://www.open.ac.
         <a href="mailto:m.sarahgreywolf@outlook.com" style="text-decoration: none;">
             <img src="https://img.shields.io/badge/-Email-grey?style=for-the-badge&logo=Microsoft-Outlook" alt="Email">
         </a>
-        <a href="https://twitter.com/SarahGreyWolf" style="text-decoration: none;">
-            <img src="https://img.shields.io/badge/-Twitter-grey?style=for-the-badge&logo=Twitter" alt="Twitter">
-        </a>
         <a rel="me" href="https://tech.lgbt/@SarahGreyWolf" style="text-decoration: none;">
             <img src="https://img.shields.io/badge/-Mastodon-grey?style=for-the-badge&logo=Mastodon" alt="Mastodon">
         </a>
